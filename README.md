@@ -170,6 +170,16 @@ To implement these tools, we extend Hugging Face by wrapping and customizing the
 
 ---
 
+### Required Libraries
+
+As with the Gradio User Interface, you need to create a Python virtual environment to use this package.  
+To do so, follow the same steps described in [this section](#developer-mode), but replace the `mobiBERT/user_interface/requirements.txt` file with `mobiBERT/pipeline/requirements.txt` in step 4.  
+
+> [!NOTE]
+> you can — and should — install these libraries in the same virtual environment (`env`).
+
+---
+
 ### Pipeline Example
 
 In this section, we walk you through an example that demonstrates how to use the pipeline step by step.
