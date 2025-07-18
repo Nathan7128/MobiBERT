@@ -1,0 +1,4 @@
+gradio==5.23.1
+pandas==2.2.3
+plotly==6.0.1
+pyarrow==19.0.1
